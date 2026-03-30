@@ -48,13 +48,3 @@ Para garantir a integridade do código e a colaboração eficiente entre a equip
     ```bash
     python main.py
     ```
-
-## 🤝 Colaboradores
-
-Agradecemos aos colegas que contribuíram através de Code Reviews e Pull Requests:
-
-- [Nathan Henrique](https://github.com/Nathan7700)
-- [João Wictor](https://github.com/joaowictorr)
-
----
-⭐ **Dê uma star neste repositório se o projeto te ajudou!**
